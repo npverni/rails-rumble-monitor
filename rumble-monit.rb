@@ -20,7 +20,7 @@ def find_place(watched_entry)
 
   entries.each_with_index do |ent,i|
     if ent == watched_entry
-      puts "#{DateTime.now}: #{ent} - #{i}"
+      puts "#{DateTime.now}: #{ent} - #{i+1}"
       break
     end  
   end
