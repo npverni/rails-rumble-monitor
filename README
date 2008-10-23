@@ -1,4 +1,4 @@
 #what: a ruby script to keep an eye on the rumble
-#author: Nathan verni - blendebox
-#contact: nverni@blenerbox.com
+#author: Nathan verni - blenderbox
+#contact: nverni@blenderbox.com
 #usage:  command line:  ruby rumble-monit.rb "Compost"
