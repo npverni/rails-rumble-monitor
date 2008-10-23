@@ -30,7 +30,7 @@ end
 def start
   watched_entry = ARGV.first
   find_place watched_entry
-  sleep 60
+  sleep 300 #output is cached every 5 minutes
   start
 end
 
